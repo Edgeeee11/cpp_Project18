@@ -17,8 +17,6 @@ main()
 	printf("Result\n");
 	puts(str);
 	
-	
-	
 	char strr[100];
 
     for(int j=strlen(str);j>0;j--)
